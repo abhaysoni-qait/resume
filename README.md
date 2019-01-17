@@ -22,7 +22,7 @@ ___
 
 
  #### SKills
-
+------------ | -------------
 javascript | java
 Angular js | HTML 5
 CSS | Jquery
