@@ -4,9 +4,7 @@
 ###### Ghaziabad, Varanasi
 ___
 
-
-
-* #### Education
+ #### Education
 
   ##### Bachelor of Technology (B.Tech), Computer Science & Engineering (2015 - 2019)
   ###### Raj Kumar Goel Institute Of Technology
