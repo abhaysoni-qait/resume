@@ -6,7 +6,7 @@ ___
 
 
 
-#### Education<br/>  
+* #### Education
 
   ##### Bachelor of Technology (B.Tech), Computer Science & Engineering (2015 - 2019)
   ###### Raj Kumar Goel Institute Of Technology
