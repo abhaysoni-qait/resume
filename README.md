@@ -4,17 +4,25 @@
 ###### Ghaziabad, Varanasi
 ___
 
+
+
 #### Education
+
+
 
 ##### Bachelor of Technology (B.Tech), Computer Science & Engineering (2015 - 2019)
 
 ###### Raj Kumar Goel Institute Of Technology
 
 
+
+
 ##### XII (Senior Secondary), Science
 ###### Year of Completion: 2014
 ###### CENTRAL BOARD OF SECONDARY EDUCATION Board (Sunbeam Academy)
 ###### Percentage : 72.00%
+
+
 
 
 ##### X (Secondary)
