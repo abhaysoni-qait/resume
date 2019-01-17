@@ -22,11 +22,12 @@ ___
 
 
  #### SKills
------------- | -------------
-javascript | java
-Angular js | HTML 5
-CSS | Jquery
-Bootstrap | MySql
 
-
-
+| Backend   |      Front-End      |  Database |
+|----------|:-------------:|------:|
+| javascript |  Angular js | MySql |
+| java |    HTML 5  |    |
+| | CSS |     |
+| | Jquery |     |
+| | Bootstrap |     |
+    
